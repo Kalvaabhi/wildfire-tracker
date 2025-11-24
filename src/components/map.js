@@ -30,7 +30,7 @@ const Map = ({
   return (
     <div className="map" style={{ height: '100vh', width: '100%' }} onClick={() => setLocationInfo(null)}>
       <GoogleMapReact
-        bootstrapURLKeys={{ key: "AIzaSyArYb5QZ42XNE5yCveyS430QpVPPro4EPM"}}
+        bootstrapURLKeys={{ key: "AIza................"}}
         defaultCenter={center}
         defaultZoom={zoom}
       >
